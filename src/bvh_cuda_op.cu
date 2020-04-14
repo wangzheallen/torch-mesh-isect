@@ -34,6 +34,11 @@
 #include <string>
 #include <type_traits>
 
+
+// zhe added                                                                                                                                                                                           
+#include <cfloat>                                                                                                                                                                                      
+#include <float.h>
+
 #include "double_vec_ops.h"
 #include "helper_math.h"
 
